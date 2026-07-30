@@ -1,0 +1,15 @@
+<svg width="400" height="80" viewBox="0 0 400 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="horiz-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C0BBD" />
+      <stop offset="100%" stop-color="#9D4EDD" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(0, 8) scale(0.125)">
+    <rect x="48" y="128" width="416" height="256" rx="40" fill="url(#horiz-gradient)" />
+    <path d="M216 200L336 256L216 312V200Z" fill="#00D9FF" />
+    <path d="M120 180C140 160 170 140 200 130" stroke="#00D9FF" stroke-width="16" stroke-linecap="round" />
+    <path d="M392 332C372 352 342 372 312 382" stroke="#00D9FF" stroke-width="16" stroke-linecap="round" />
+  </g>
+  <text x="80" y="50" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="28" fill="#FFFFFF" letter-spacing="-0.5">Best IPTV <tspan fill="#00D9FF">USA</tspan></text>
+</svg>
